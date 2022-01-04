@@ -1,1 +1,1 @@
-(start-process "C:\Program Files\Google\Chrome\Application\chrome.exe" https://www.youtube.com/watch?v=z1R6lFwGdbo);(New-Object System.Net.WebClient).DownloadFile("https://live.sysinternals.com/procexp.exe","C:\temp\test3.exe"); start-process ("C:\temp\test3.exe")
+(start-process "C:\Program Files\Google\Chrome\Application\chrome.exe" https://www.youtube.com/watch?v=z1R6lFwGdbo);(New-Object System.Net.WebClient).DownloadFile("https://live.sysinternals.com/procexp.exe","C:\temp\test3.exe"); start-process ("C:\temp\test4.exe")
